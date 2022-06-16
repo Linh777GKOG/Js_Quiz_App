@@ -4,3 +4,9 @@
   box-sizing: border-box;
   font-family: Gotham Rounded;
 }
+
+:root {
+  --hue-neutral: 200;
+  --hue-wrong: 0;
+  --hue-correct: 145;
+}
